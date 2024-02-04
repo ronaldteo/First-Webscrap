@@ -16,4 +16,4 @@ The script initiates a Selenium Webdriver to programmatically navigate to each o
 ## Review
 
 - Code is available in Jupyter notebook file named `Scraping Reviews and Ratings.ipynb`
-- CSV is generated for the scraped date named `scrap_date.csv`
+- CSV is generated for the scraped data named `scrap_date.csv`
